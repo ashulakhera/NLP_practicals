@@ -1,0 +1,12 @@
+# Ignore system files and directories
+.anaconda/
+.aws/
+.conda/
+.docker/
+.gitconfig
+.ipynb_checkpoints/
+.jupyter/
+.vscode/
+.virtual_documents/
+*.log
+*.pkl
